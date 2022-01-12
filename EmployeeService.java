@@ -1,11 +1,8 @@
 
-ihi
-<<<<<<< HEAD
 this contains in master
 nice 
 i hi employees
-=======
-this contains devolopment
->>>>>>> devolopment
+ i am from dev br
+this contains devolo
 employee related
 
